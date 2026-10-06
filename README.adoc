@@ -1,0 +1,20 @@
+= ELTE IK PSAC progress document
+Peter Matyas <ckn7r8@inf.elte.hu>
+v1.0, 2026-10-06
+:toc: left
+:icons: font
+:source-highlighter: rogue
+
+== 1. Session
+
+=== Docker basics
+- run
+- expose
+- volume
+- network
+- mount
+- exec
+- stop
+- restart
+
+I already now these commands, I will just include my dockerized projects.
